@@ -39,7 +39,7 @@ public class Cliente extends Usuario{
     *
     *
     */
-    public void realizarCompraManual(String[] productos) throws IOException{
+    public void realizarPedidoManual(String[] productos) throws IOException{
 
         Compra carrito;
 
@@ -54,7 +54,7 @@ public class Cliente extends Usuario{
         compras.push(carrito);
     }//fin realizarCompraManual
 
-    public void realizarCompraPredefinida(String construcción){
+    public void realizarPedidoPredefinida(String construcción){
         Compra carrito;
         Director director;
         //-------------
@@ -86,5 +86,6 @@ public class Cliente extends Usuario{
         }
         return permiso;
     }//fin permitirCompra
+
 
 }//fin clase

@@ -10,10 +10,7 @@ public class concreteCreatorViga extends Creator{
 
 
     public Producto factoryMethod() {
-        Producto aConcreteProduct;
-
-        aConcreteProduct = new concreteProductViga();
-        return aConcreteProduct;
+       return new concreteProductViga();
 
     }//fin factoryMethod();
 }//fin concreteCreatorViga

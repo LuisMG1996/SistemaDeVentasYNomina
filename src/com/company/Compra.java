@@ -47,4 +47,24 @@ public class Compra extends ArrayList<Producto> {
         System.out.println("Subtotal: \t$" + subTotal);
         System.out.println("Total: \t\t$" + total);
     }
+
+    public int getIdCompra() {
+        return idCompra;
+    }
+
+    public int getSubTotal() {
+        return subTotal;
+    }
+
+    public double getTotal() {
+        return total;
+    }
+
+    public int getStatus() {
+        return status;
+    }
+
+    public Cliente getCliente() {
+        return cliente;
+    }
 }

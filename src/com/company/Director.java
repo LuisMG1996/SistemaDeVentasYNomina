@@ -5,8 +5,7 @@ package com.company;
  * @author Luis Montes
  *
  */
-public class Director
-{
+public class Director {
     Builder builder;
     //----------------
 

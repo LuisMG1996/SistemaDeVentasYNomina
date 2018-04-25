@@ -9,10 +9,8 @@ package com.company;
 public class concreteCreatorAsfalto extends Creator {
 
     public Producto factoryMethod() {
-        Producto aConcreteProduct;
 
-        aConcreteProduct = new concreteProductAsfalto();
-        return aConcreteProduct;
+        return new concreteProductAsfalto();
 
     }//fin factoryMethod();
 }
