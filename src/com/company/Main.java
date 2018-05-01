@@ -1,5 +1,5 @@
 package com.company;
-import com.company.Interfaces.clientePrincipal;
+import com.company.Interfaces.*;
 
 public class Main {
 
@@ -12,7 +12,7 @@ public class Main {
             compra = cliente.compras.pop();
             compra.imprimirCompra();
         }
-        clientePrincipal inter = new clientePrincipal(cliente);
+        clienteCompra inter = new clienteCompra();
         inter.inicia();
     }
 }

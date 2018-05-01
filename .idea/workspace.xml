@@ -2,25 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="296a5de1-ebf7-4afb-be21-2b58e30949db" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Interfaces/clienteCompra.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Creator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Director.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Producto.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Usuario.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/View.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteBuilderCarretera.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteBuilderPuente.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/interfazLogin.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Cliente.class" afterPath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Cliente.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Compra.class" afterPath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Compra.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Cuenta.class" afterPath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Cuenta.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Empleado.class" afterPath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/Empleado.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteCreatorAsfalto.class" afterPath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteCreatorAsfalto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteCreatorViga.class" afterPath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteCreatorViga.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteProductAsfalto.class" afterPath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteProductAsfalto.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteProductViga.class" afterPath="$PROJECT_DIR$/out/production/PatronesProyecto/com/company/concreteProductViga.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Cliente.java" afterPath="$PROJECT_DIR$/src/com/company/Cliente.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Compra.java" afterPath="$PROJECT_DIR$/src/com/company/Compra.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Cuenta.java" afterPath="$PROJECT_DIR$/src/com/company/Cuenta.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Empleado.java" afterPath="$PROJECT_DIR$/src/com/company/Empleado.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Interfaces/clientePrincipal.java" afterPath="$PROJECT_DIR$/src/com/company/Interfaces/clientePrincipal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/concreteCreatorAsfalto.java" afterPath="$PROJECT_DIR$/src/com/company/concreteCreatorAsfalto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/concreteCreatorViga.java" afterPath="$PROJECT_DIR$/src/com/company/concreteCreatorViga.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/concreteProductAsfalto.java" afterPath="$PROJECT_DIR$/src/com/company/concreteProductAsfalto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/concreteProductViga.java" afterPath="$PROJECT_DIR$/src/com/company/concreteProductViga.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Builder.java" afterPath="$PROJECT_DIR$/src/com/company/BuilderPattern/Builder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Creator.java" afterPath="$PROJECT_DIR$/src/com/company/abstractClasses/Creator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Director.java" afterPath="$PROJECT_DIR$/src/com/company/BuilderPattern/Director.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Producto.java" afterPath="$PROJECT_DIR$/src/com/company/abstractClasses/Producto.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Usuario.java" afterPath="$PROJECT_DIR$/src/com/company/abstractClasses/Usuario.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/View.java" afterPath="$PROJECT_DIR$/src/com/company/Interfaces/View.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/concreteBuilderCarretera.java" afterPath="$PROJECT_DIR$/src/com/company/BuilderPattern/concreteBuilderCarretera.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/concreteBuilderPuente.java" afterPath="$PROJECT_DIR$/src/com/company/BuilderPattern/concreteBuilderPuente.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interfazLogin.java" afterPath="$PROJECT_DIR$/src/com/company/Interfaces/interfazLogin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,11 +50,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interfazLogin.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="interfazLogin.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Interfaces/interfazLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="414">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="32" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -68,33 +80,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Interfaces/View.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Builder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/BuilderPattern/Builder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Cliente.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Cliente.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
+            <state relative-caret-position="450">
               <caret line="69" column="31" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clienteCompra.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Interfaces/clienteCompra.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="61" column="36" lean-forward="false" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+              <folding>
+                <element signature="e#1867#1868#0" expanded="true" />
+                <element signature="e#1899#1900#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -113,18 +118,8 @@
       <file leaf-file-name="Producto.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/abstractClasses/Producto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="36">
               <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="concreteBuilderCarretera.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/BuilderPattern/concreteBuilderCarretera.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -189,7 +184,6 @@
         <option value="$PROJECT_DIR$/src/com/company/Director.java" />
         <option value="$PROJECT_DIR$/src/com/company/Compra.java" />
         <option value="$PROJECT_DIR$/src/com/company/Cuenta.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/Interfaces/clientePrincipal.java" />
         <option value="$PROJECT_DIR$/src/com/company/Builder/Director.java" />
         <option value="$PROJECT_DIR$/src/com/company/Builder/concreteBuilderPuente.java" />
@@ -199,6 +193,8 @@
         <option value="$PROJECT_DIR$/src/com/company/abstractClasses/Usuario.java" />
         <option value="$PROJECT_DIR$/src/com/company/Interfaces/interfazLogin.java" />
         <option value="$PROJECT_DIR$/src/com/company/Interfaces/View.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Interfaces/clienteCompra.java" />
       </list>
     </option>
   </component>
@@ -284,28 +280,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PatronesProyecto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PatronesProyecto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="abstractClasses" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -831,7 +805,7 @@
       <workItem from="1524802633471" duration="1835000" />
       <workItem from="1525059511784" duration="258000" />
       <workItem from="1525111807776" duration="3683000" />
-      <workItem from="1525209349669" duration="2280000" />
+      <workItem from="1525209349669" duration="5745000" />
     </task>
     <task id="LOCAL-00001" summary="Prueba 2">
       <created>1524692552723</created>
@@ -854,11 +828,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525210196106</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="v0.5">
+      <created>1525211679806</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525211679806</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31171000" />
+    <option name="totallyTimeSpent" value="34636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -867,13 +848,14 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33224222" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33060557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33060557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -890,7 +872,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -975,25 +956,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Empleado.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1075#1076#0" expanded="false" />
-            <element signature="e#1135#1136#0" expanded="false" />
-            <element signature="e#1177#1178#0" expanded="false" />
-            <element signature="e#1209#1210#0" expanded="false" />
-            <element signature="e#1252#1253#0" expanded="false" />
-            <element signature="e#1290#1291#0" expanded="false" />
-            <element signature="e#1337#1338#0" expanded="false" />
-            <element signature="e#1379#1380#0" expanded="false" />
-            <element signature="e#1428#1429#0" expanded="false" />
-            <element signature="e#1472#1473#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/abstractClasses/Producto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -1326,14 +1288,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Interfaces/clientePrincipal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -1386,28 +1340,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="69" column="31" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/abstractClasses/Creator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/abstractClasses/Producto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1428,11 +1364,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="69" column="31" lean-forward="false" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Interfaces/interfazLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="414">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="32" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/abstractClasses/Producto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Interfaces/clienteCompra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="61" column="36" lean-forward="false" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+          <folding>
+            <element signature="e#1867#1868#0" expanded="true" />
+            <element signature="e#1899#1900#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
