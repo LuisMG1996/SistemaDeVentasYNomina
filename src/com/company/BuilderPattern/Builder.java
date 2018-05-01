@@ -1,4 +1,6 @@
-package com.company;
+package com.company.BuilderPattern;
+
+import com.company.Cliente;
 
 /**
  * Builder especifica una interface correspondiente a

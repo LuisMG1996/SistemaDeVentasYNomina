@@ -1,4 +1,4 @@
-package com.company;
+package com.company.abstractClasses;
 
 public abstract class Producto {
 

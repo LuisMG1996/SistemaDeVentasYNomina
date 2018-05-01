@@ -1,6 +1,6 @@
 package com.company.Interfaces;
 import com.company.Cliente;
-import com.company.View;
+
 import java.awt.*;
 
 /**

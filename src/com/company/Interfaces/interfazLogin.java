@@ -1,11 +1,11 @@
-package com.company;
+package com.company.Interfaces;
 
 import java.awt.*;
 
 /**
  * Created by luisricardo on 19/04/2018.
  */
-public class interfazLogin extends Frame implements View{
+public class interfazLogin extends Frame implements View {
 
     //TextFields para credenciales
 

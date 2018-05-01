@@ -1,4 +1,4 @@
-package com.company;
+package com.company.abstractClasses;
 
 import java.util.ArrayList;
 import java.util.Set;

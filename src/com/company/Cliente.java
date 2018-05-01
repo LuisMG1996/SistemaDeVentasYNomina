@@ -3,6 +3,9 @@ package com.company;
 //import java.time.LocalDate;
 import java.io.IOException;
 import java.util.Stack;
+import com.company.BuilderPattern.*;
+import com.company.abstractClasses.Creator;
+import com.company.abstractClasses.Usuario;
 
 /**
  *
@@ -10,7 +13,7 @@ import java.util.Stack;
 * @version 0.2
 *
 */
-public class Cliente extends Usuario{
+public class Cliente extends Usuario {
 
     public int idCliente;
     public String tipo; //Mayorista o menudista

@@ -1,4 +1,7 @@
-package com.company;
+package com.company.BuilderPattern;
+
+import com.company.Cliente;
+
 /**
  * Ordena y dirige (indica) la construccion de los productos
  *

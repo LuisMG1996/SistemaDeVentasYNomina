@@ -1,4 +1,4 @@
-package com.company;
+package com.company.Interfaces;
 
 /**
  * Created by luisricardo on 19/04/2018.

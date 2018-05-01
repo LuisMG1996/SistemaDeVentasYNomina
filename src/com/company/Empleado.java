@@ -1,12 +1,14 @@
 package com.company;
 
+import com.company.abstractClasses.Usuario;
+
 //import java.time.LocalDate;
 //------------------------------------------------------
 //------------------------------------------------------
 //Implementar en está clase o en Empleado patron de Composite
 //------------------------------------------------------
 //------------------------------------------------------
-public class Empleado extends Usuario{
+public class Empleado extends Usuario {
 
     public Departamento nombreDepartamento;
     public Empleado jefe;

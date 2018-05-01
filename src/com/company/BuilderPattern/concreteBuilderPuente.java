@@ -1,30 +1,37 @@
-package com.company;
+package com.company.BuilderPattern;
+
+
+import com.company.*;
+import com.company.abstractClasses.Creator;
+import com.company.abstractClasses.Producto;
 
 /**
  * Created by luisricardo on 18/04/2018.
  * @author luisricardo
  * @version 0.2
  */
-public class concreteBuilderCarretera implements Builder{
+
+public class concreteBuilderPuente implements Builder {
 
     Producto primeraParte;
     Producto segundaParte;
     Producto terceraParte;
     Compra compra;
     Creator creator;
+    //-----------
 
     public void buildPartOne(){ //Materiales metalicos
-        compra.add(Creator.anOperation("Asfalto"));
+        primeraParte = Creator.anOperation("Viga");
     }//end buildPartOne
 
 
     public void buildPartTwo(){ //Cemento, Grava, etc..
-        compra.add(Creator.anOperation("Asfalto"));
+        segundaParte = Creator.anOperation("Asfalto");
     }//end buildPartTwo
 
 
     public void buildPartThree(){
-        compra.add(Creator.anOperation("Viga"));
+        terceraParte = Creator.anOperation("Viga");
     }//end buildPartThree
 
 
@@ -42,4 +49,6 @@ public class concreteBuilderCarretera implements Builder{
     {
         return compra;
     }//end getResult
-}
+
+
+}//end class ConcreteBuilderBalsa

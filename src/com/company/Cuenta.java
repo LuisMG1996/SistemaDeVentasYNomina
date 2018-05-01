@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.abstractClasses.Usuario;
+
 import java.util.ArrayList;
 
 /**
