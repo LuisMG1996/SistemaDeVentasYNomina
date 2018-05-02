@@ -29,11 +29,11 @@ public class clienteCompra extends Frame implements View {
     public void constuyeComponentes() {
 
         ckbManual = new Checkbox("Compra Manual");
-        ckbManual.setBounds(75,50,100,20);
+        ckbManual.setBounds(30,50,150,20);
         add(ckbManual);
 
         ckbPredeterminado = new Checkbox("Compra Predeterminada");
-        ckbPredeterminado.setBounds(200,50,100,20);
+        ckbPredeterminado.setBounds(200,50,200,20);
         add(ckbPredeterminado);
 
         chcCategoria = new Choice();
@@ -43,7 +43,7 @@ public class clienteCompra extends Frame implements View {
         chcCategoria.addItem("Varillas");
         chcCategoria.addItem("Revolvedoras");
         chcCategoria.addItem("Vidrio");
-        chcCategoria.setBounds(200,90,100,20);
+        chcCategoria.setBounds(150,90,150,20);
         add(chcCategoria);
 
         lstProductos = new List(10);
@@ -69,4 +69,6 @@ public class clienteCompra extends Frame implements View {
     public void inicia(){
         setVisible(true);
     }
+
+
 }
